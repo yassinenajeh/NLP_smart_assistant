@@ -1,0 +1,7 @@
+transformers == 5.14.1
+torch == 2.13.0
+datasets == 5.0.1
+pandas == 3.0.5
+customtkinter == 6.0.0
+accelerate == 1.14.0
+sentencepiece == 0.2.2

@@ -298,7 +298,6 @@ Through this project, I learned how to :
 - Evaluate a classification model using separate validation and test datasets
 - Analyze classification errors and improve the dataset accordingly
 - Combine multiple AI models into a single application
-- Build a complete NLP processing pipeline
 - Implement asynchronous AI text generation
 - Create a graphical interface for an AI application
 - Test an AI application using predefined test cases

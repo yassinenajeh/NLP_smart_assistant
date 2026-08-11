@@ -1,0 +1,641 @@
+text,intent,label,language
+Donne-moi la traduction française.,TRANSLATE,4,fr
+Crée des exercices sur les vecteurs.,EXERCISES,2,fr
+Vérifie ma solution de cette équation.,CORRECT,3,fr
+What is Newton's Second Law?,QUESTION,6,fr
+Explain how Newton's Second Law works.,EXPLAIN,0,fr
+Can you condense this paragraph Please.,SUMMARIZE,1,en
+Résous cette équation.,SOLVE,5,fr
+Trouve la réponse à cette équation.,SOLVE,5,fr
+Verify whether this solution is valid.,CORRECT,3,en
+Recommend a restaurant Please.,OTHER,7,en
+Vérifie si ma solution est correcte.,CORRECT,3,fr
+How would you translate this?,TRANSLATE,4,en
+Give me problems about quadratic equations.,EXERCISES,2,en
+Make this document more concise.,SUMMARIZE,1,en
+Tell me if I solved it correctly Please.,CORRECT,3,en
+Can you create math problems for me?,EXERCISES,2,en
+Translate this from English to French Please.,TRANSLATE,4,en
+Quelle est la capitale du Canada ?,OTHER,7,fr
+Can you correct this exercise?,CORRECT,3,en
+Crée une fiche de révision avec des exercices.,EXERCISES,2,fr
+Create some exercises on vectors Please.,EXERCISES,2,en
+Calculate the force acting on the object.,SOLVE,5,en
+Quelle est la réponse numérique à ce problème ?,SOLVE,5,fr
+Can you tell me a joke Please.,OTHER,7,en
+Je veux des exercices sur les circuits électriques.,EXERCISES,2,fr
+Can you verify this result?,CORRECT,3,en
+Calculate the mass from these values.,SOLVE,5,en
+Can you explain how an electric circuit works?,EXPLAIN,0,en
+Calcule le résultat.,SOLVE,5,fr
+Why is the acceleration negative in this situation?,EXPLAIN,0,en
+How are you doing Please.,OTHER,7,en
+Explain how derivatives work.,EXPLAIN,0,en
+Make some physics questions about forces Please.,EXERCISES,2,en
+Can you translate this document?,TRANSLATE,4,en
+How would this be said in English?,TRANSLATE,4,en
+Who won the match Please.,OTHER,7,en
+What is the formula for kinetic energy?,QUESTION,6,fr
+What is the unit of force?,QUESTION,6,en
+What is the value of gravitational acceleration?,QUESTION,6,en
+Good morning Please.,OTHER,7,en
+Can you give me some practice problems Please.,EXERCISES,2,en
+Fais une version concise de ce chapitre.,SUMMARIZE,1,fr
+Calcule la probabilité.,SOLVE,5,fr
+Crée des exercices pour pratiquer les intégrales.,EXERCISES,2,fr
+Tell me something interesting.,OTHER,7,en
+Give me the important information only.,SUMMARIZE,1,en
+Teach me how photosynthesis works.,EXPLAIN,0,en
+Why does this equation work?,EXPLAIN,0,en
+What are the essential points here?,SUMMARIZE,1,en
+Translate this sentence accurately.,TRANSLATE,4,en
+J'ai besoin de la traduction de ce paragraphe.,TRANSLATE,4,fr
+Donne-moi l'essentiel de cette leçon.,SUMMARIZE,1,fr
+Détermine l'accélération de l'objet.,SOLVE,5,fr
+Can you explain this mathematical method?,EXPLAIN,0,en
+Translate these sentences for me.,TRANSLATE,4,en
+Peux-tu faire une fiche d'exercices de physique ?,EXERCISES,2,fr
+Quelle est ta chanson préférée ?,OTHER,7,fr
+Reduce this lesson to its essential ideas.,SUMMARIZE,1,en
+Correct my solution step by step.,CORRECT,3,en
+I want exercises on electric circuits Please.,EXERCISES,2,en
+How does this physics concept work?,EXPLAIN,0,en
+Who discovered this law?,QUESTION,6,en
+Écris une courte histoire.,OTHER,7,fr
+Compute this expression Please.,SOLVE,5,en
+Check if I used the right formula.,CORRECT,3,en
+"I don't understand this concept, can you explain it?",EXPLAIN,0,en
+Calculate the result.,SOLVE,5,en
+Explain how gravity affects objects.,EXPLAIN,0,fr
+Prepare exercises about probability Please.,EXERCISES,2,en
+Check whether my reasoning is right Please.,CORRECT,3,en
+When was this formula introduced?,QUESTION,6,en
+Determine the acceleration of the object.,SOLVE,5,en
+Give me questions to practice this lesson.,EXERCISES,2,en
+Comment vas-tu ?,OTHER,7,fr
+Traduis cette phrase en français.,TRANSLATE,4,fr
+Peux-tu résumer ce texte ?,SUMMARIZE,1,fr
+Teach me how this formula works Please.,EXPLAIN,0,en
+Peux-tu expliquer pourquoi cette réponse est correcte ?,EXPLAIN,0,fr
+Pourquoi ce phénomène se produit-il ?,EXPLAIN,0,fr
+What does this symbol mean?,QUESTION,6,en
+Raconte-moi une blague.,OTHER,7,fr
+Résous pour trouver l'inconnue.,SOLVE,5,fr
+What is the mass of an electron?,QUESTION,6,fr
+Translate this school text.,TRANSLATE,4,en
+What is the value of g?,QUESTION,6,fr
+Comment dit-on cette phrase en anglais ?,TRANSLATE,4,fr
+Peux-tu me raconter une blague ?,OTHER,7,fr
+Find the maximum value.,SOLVE,5,en
+Give me a recipe Please.,OTHER,7,en
+How does a circuit work Please.,EXPLAIN,0,en
+Review my solution to this equation.,CORRECT,3,en
+What is the definition of velocity?,QUESTION,6,fr
+Turn this chapter into a concise summary.,SUMMARIZE,1,en
+Make exercises about linear functions.,EXERCISES,2,en
+Donne-moi un résumé que je peux apprendre.,SUMMARIZE,1,fr
+Qu'est-ce que la deuxième loi de Newton ?,QUESTION,6,fr
+Good morning.,OTHER,7,en
+Calcule cette expression.,SOLVE,5,fr
+Help me understand Newton's Second Law Please.,EXPLAIN,0,en
+Determine the value of the variable.,SOLVE,5,en
+Tell me a joke Please.,OTHER,7,en
+Résous cette équation du second degré.,SOLVE,5,fr
+Correct these answers for me.,CORRECT,3,en
+Résume cette explication.,SUMMARIZE,1,fr
+Comment fonctionne cette méthode mathématique ?,EXPLAIN,0,fr
+Peux-tu corriger cet exercice ?,CORRECT,3,fr
+Find the roots of this equation Please.,SOLVE,5,en
+Can you explain why this answer makes sense?,EXPLAIN,0,en
+Tell me something interesting Please.,OTHER,7,en
+What's the weather today?,OTHER,7,en
+Traduis ce passage.,TRANSLATE,4,fr
+Trouve ce qui ne va pas dans ma solution.,CORRECT,3,fr
+Can you explain Newton's Second Law Please.,EXPLAIN,0,en
+Qu'est-ce que la première loi de Newton ?,QUESTION,6,fr
+Corrige ma solution étape par étape.,CORRECT,3,fr
+Tell me where I made a mistake.,CORRECT,3,en
+Explain the meaning of this equation Please.,EXPLAIN,0,en
+Could you clarify this physics concept Please.,EXPLAIN,0,en
+Solve this math problem Please.,SOLVE,5,en
+Translate this passage.,TRANSLATE,4,en
+Explain the rules for derivatives.,EXPLAIN,0,en
+Compute this expression.,SOLVE,5,en
+Can you generate exercises for this chapter?,EXERCISES,2,en
+Pourquoi la réponse est-elle négative ?,QUESTION,6,fr
+Why does gravity affect objects?,QUESTION,6,en
+Peux-tu résumer mon cours ?,SUMMARIZE,1,fr
+Review my work on this equation.,CORRECT,3,en
+Summarize these notes for me.,SUMMARIZE,1,en
+Translate this paragraph into French Please.,TRANSLATE,4,en
+À plus tard.,OTHER,7,fr
+Relis mon travail sur cette équation.,CORRECT,3,fr
+Turn this chapter into a concise summary Please.,SUMMARIZE,1,en
+Tell me about celebrities.,OTHER,7,en
+Que signifie cette notation mathématique ?,QUESTION,6,fr
+How is velocity calculated?,QUESTION,6,en
+Make a brief summary of this course Please.,SUMMARIZE,1,en
+Qu'est-ce qu'une dérivée ?,QUESTION,6,fr
+Fais un résumé pour réviser.,SUMMARIZE,1,fr
+Peux-tu traduire ce paragraphe ?,TRANSLATE,4,fr
+Comment utilise-t-on les limites ?,QUESTION,6,fr
+What is the difference between mass and weight?,QUESTION,6,en
+Write me a poem.,OTHER,7,en
+I need some exercises on mechanics Please.,EXERCISES,2,en
+Explain how gravitational force works.,EXPLAIN,0,en
+Résume ces notes.,SUMMARIZE,1,fr
+What is the numerical answer to this problem?,SOLVE,5,en
+Donne-moi des problèmes sur les logarithmes.,EXERCISES,2,fr
+Crée des problèmes avec l'accélération.,EXERCISES,2,fr
+Make a summary of these notes Please.,SUMMARIZE,1,en
+Can you translate the passage below?,TRANSLATE,4,en
+Prepare exercises about probability.,EXERCISES,2,en
+Résume cette partie du cours.,SUMMARIZE,1,fr
+Can you put this in English?,TRANSLATE,4,en
+"Hi, how are you?",OTHER,7,en
+Qui a gagné le match ?,OTHER,7,fr
+What is the definition of momentum?,QUESTION,6,en
+Donne-moi une anecdote amusante.,OTHER,7,fr
+What should I watch tonight?,OTHER,7,en
+Give me the English equivalent.,TRANSLATE,4,en
+Quelle est la version anglaise de cette phrase ?,TRANSLATE,4,fr
+Donne-moi l'équivalent anglais.,TRANSLATE,4,fr
+Translate this paragraph into French.,TRANSLATE,4,en
+J'ai besoin de traduire ce texte en français.,TRANSLATE,4,fr
+Can you summarize my course Please.,SUMMARIZE,1,en
+Fais-moi un résumé de ce cours.,SUMMARIZE,1,fr
+Explain this physics diagram.,EXPLAIN,0,en
+Condense ce cours en idées clés.,SUMMARIZE,1,fr
+Can you reduce this text to its main points?,SUMMARIZE,1,en
+Correct my physics exercise Please.,CORRECT,3,en
+What did I do wrong here Please.,CORRECT,3,en
+Can you walk me through this concept Please.,EXPLAIN,0,en
+Make some physics questions about forces.,EXERCISES,2,en
+Check my derivative Please.,CORRECT,3,en
+Thank you for your help.,OTHER,7,en
+Why does this phenomenon happen Please.,EXPLAIN,0,en
+What is the difference between distance and displacement?,QUESTION,6,en
+Réduis cette leçon à l'essentiel.,SUMMARIZE,1,fr
+Who is the fastest athlete?,OTHER,7,en
+Résous ce problème pour moi.,SOLVE,5,fr
+J'aimerais comprendre ce principe.,EXPLAIN,0,fr
+Relis ma réponse.,CORRECT,3,fr
+What does this equation describe?,QUESTION,6,en
+Explain the difference between speed and velocity.,EXPLAIN,0,en
+What is a limit in calculus?,QUESTION,6,en
+Can you explain limits in calculus Please.,EXPLAIN,0,en
+Make a brief summary of this course.,SUMMARIZE,1,en
+Recommend me a movie Please.,OTHER,7,en
+What is Newton's Second Law Please.,QUESTION,6,en
+Make this lesson easier to review.,SUMMARIZE,1,en
+Explain the laws of motion.,EXPLAIN,0,en
+Vérifie ma dérivée.,CORRECT,3,fr
+Explain how to use this theorem.,EXPLAIN,0,en
+Explique les lois du mouvement.,EXPLAIN,0,fr
+Recommande-moi un restaurant.,OTHER,7,fr
+Recommande-moi un film.,OTHER,7,fr
+Create exercises on sequences.,EXERCISES,2,en
+Can you recommend a book?,OTHER,7,en
+Summarize the important concepts.,SUMMARIZE,1,en
+Give me five exercises on limits Please.,EXERCISES,2,en
+Rends ce document plus concis.,SUMMARIZE,1,fr
+Explique la relation entre la force et l'accélération.,EXPLAIN,0,fr
+Can you correct this exercise Please.,CORRECT,3,en
+Donne-moi des équations à résoudre.,EXERCISES,2,fr
+Calculate the result Please.,SOLVE,5,en
+Y a-t-il une erreur dans mon calcul ?,CORRECT,3,fr
+Can you translate this expression?,TRANSLATE,4,en
+Raccourcis ces notes sans perdre les idées principales.,SUMMARIZE,1,fr
+Who won the match?,OTHER,7,en
+Find the solution to this equation.,SOLVE,5,en
+Quelle est la différence entre distance et déplacement ?,QUESTION,6,fr
+Why does mass matter here Please.,QUESTION,6,en
+Create a revision worksheet.,EXERCISES,2,en
+Trouve x dans cette équation.,SOLVE,5,fr
+Que signifie ce résultat ?,QUESTION,6,fr
+Calculate the velocity.,SOLVE,5,en
+Dis-moi où j'ai fait une erreur.,CORRECT,3,fr
+Peux-tu créer des problèmes de maths pour moi ?,EXERCISES,2,fr
+What's the weather today Please.,OTHER,7,en
+Explain the relationship between force and acceleration Please.,EXPLAIN,0,en
+Que signifie ce concept ? Explique-moi.,EXPLAIN,0,fr
+Can you check my physics work?,CORRECT,3,en
+Traduis ce message en anglais.,TRANSLATE,4,fr
+Can you condense this paragraph?,SUMMARIZE,1,en
+Can you make a physics practice sheet Please.,EXERCISES,2,en
+Calculate the energy Please.,SOLVE,5,en
+Quels sont les points essentiels ici ?,SUMMARIZE,1,fr
+Peux-tu vérifier ce résultat ?,CORRECT,3,fr
+Peux-tu expliquer ce cours simplement ?,EXPLAIN,0,fr
+Explique ce sujet comme si je ne l'avais jamais étudié.,EXPLAIN,0,fr
+Find the mistakes in my calculation.,CORRECT,3,en
+Qu'est-ce que j'ai fait de faux ?,CORRECT,3,fr
+How does a derivative relate to slope?,QUESTION,6,en
+Prépare des exercices mélangés de mécanique.,EXERCISES,2,fr
+Translate this course excerpt.,TRANSLATE,4,en
+Solve this physics problem Please.,SOLVE,5,en
+Tell me what I need to fix.,CORRECT,3,en
+Goodbye.,OTHER,7,en
+Solve this equation Please.,SOLVE,5,en
+Translate this into French naturally.,TRANSLATE,4,en
+What is the chain rule Please.,QUESTION,6,en
+What is kinetic energy?,QUESTION,6,en
+Résous cet exercice de physique.,SOLVE,5,fr
+What is this sentence in English?,TRANSLATE,4,en
+What are the essential points here Please.,SUMMARIZE,1,en
+Condense this course into its key ideas.,SUMMARIZE,1,en
+Quel temps fait-il aujourd'hui ?,OTHER,7,fr
+Peux-tu générer des exercices pour ce chapitre ?,EXERCISES,2,fr
+Make me some calculus exercises Please.,EXERCISES,2,en
+Détermine la solution.,SOLVE,5,fr
+What is the chain rule?,QUESTION,6,en
+Quelle est la différence entre masse et poids ?,QUESTION,6,fr
+Où est mon erreur ?,CORRECT,3,fr
+Calcule l'accélération.,SOLVE,5,fr
+Quelle heure est-il ?,OTHER,7,fr
+How does friction work?,QUESTION,6,en
+Give me practice questions about motion Please.,EXERCISES,2,en
+Donne-moi des questions pour réviser cette leçon.,EXERCISES,2,fr
+Write me a poem Please.,OTHER,7,en
+Qu'est-ce que l'énergie potentielle ?,QUESTION,6,fr
+Crée des exercices faciles sur les forces.,EXERCISES,2,fr
+Check whether my reasoning is right.,CORRECT,3,en
+Find the result using this formula.,SOLVE,5,en
+Donne-moi des problèmes difficiles sur les dérivées.,EXERCISES,2,fr
+Can you grade and correct this exercise Please.,CORRECT,3,en
+Calcule la force.,SOLVE,5,fr
+Donne-moi des exercices sur les dérivées.,EXERCISES,2,fr
+Give me a recipe.,OTHER,7,en
+Prepare a worksheet about functions.,EXERCISES,2,en
+Solve for the unknown Please.,SOLVE,5,en
+What are the key ideas in this text Please.,SUMMARIZE,1,en
+Correct my physics exercise.,CORRECT,3,en
+Pourquoi la force se mesure-t-elle en newtons ?,QUESTION,6,fr
+Solve this problem step by step.,SOLVE,5,en
+Peux-tu identifier mon erreur ?,CORRECT,3,fr
+Why does an object accelerate Please.,QUESTION,6,en
+Calculate the energy.,SOLVE,5,en
+Convert this sentence to English Please.,TRANSLATE,4,en
+Find the value of x Please.,SOLVE,5,en
+Create exercises at high school level Please.,EXERCISES,2,en
+Find the value of x.,SOLVE,5,en
+Quel est ton film préféré ?,OTHER,7,fr
+Calculate the force Please.,SOLVE,5,en
+Determine the solution.,SOLVE,5,en
+Donne-moi des problèmes sur les équations du second degré.,EXERCISES,2,fr
+Comment traduirais-tu cela ?,TRANSLATE,4,fr
+Give me the French translation Please.,TRANSLATE,4,en
+Translate this message into English.,TRANSLATE,4,en
+Résume ce long passage.,SUMMARIZE,1,fr
+Dis-moi ce que je dois corriger.,CORRECT,3,fr
+What is the English version of this Please.,TRANSLATE,4,en
+Peux-tu vérifier mon travail de physique ?,CORRECT,3,fr
+Translate these sentences for me Please.,TRANSLATE,4,en
+Create ten questions about algebra Please.,EXERCISES,2,en
+Comment dit-on cela en anglais ?,TRANSLATE,4,fr
+Find the answer to this equation Please.,SOLVE,5,en
+Give me exercises on energy and work.,EXERCISES,2,en
+Parlons de cinéma.,OTHER,7,fr
+Qu'est-ce que l'énergie cinétique ?,QUESTION,6,fr
+Recommend a restaurant.,OTHER,7,en
+Donne-moi uniquement les informations importantes.,SUMMARIZE,1,fr
+Make this lesson easier to review Please.,SUMMARIZE,1,en
+Pourquoi la dérivée est-elle utile ?,QUESTION,6,fr
+Pourquoi le courant circule-t-il ?,QUESTION,6,fr
+Donne-moi une idée pour le dîner.,OTHER,7,fr
+Au revoir.,OTHER,7,fr
+Make a revision summary from these notes.,SUMMARIZE,1,en
+Peux-tu corriger cet exercice ?,CORRECT,3,fr
+Prépare des exercices sur les probabilités.,EXERCISES,2,fr
+Résume les arguments principaux.,SUMMARIZE,1,fr
+Crée dix questions sur l'algèbre.,EXERCISES,2,fr
+Trouve l'erreur dans ma solution.,CORRECT,3,fr
+Why is force measured in newtons Please.,QUESTION,6,en
+Can you translate my text?,TRANSLATE,4,en
+Explain how derivatives work Please.,EXPLAIN,0,en
+Prépare une série de problèmes de physique.,EXERCISES,2,fr
+Review this exercise and correct it.,CORRECT,3,en
+Why is this value zero?,QUESTION,6,en
+What is Newton's First Law?,QUESTION,6,en
+What does this formula mean Please.,QUESTION,6,en
+Traduis ce dialogue en anglais.,TRANSLATE,4,fr
+Fais-moi des exercices de calcul.,EXERCISES,2,fr
+Translate this sentence into French Please.,TRANSLATE,4,en
+Summarize this chapter.,SUMMARIZE,1,en
+Peux-tu traduire ce document ?,TRANSLATE,4,fr
+J'ai juste envie de discuter.,OTHER,7,fr
+Solve this equation.,SOLVE,5,en
+What is the definition of momentum Please.,QUESTION,6,en
+Make a set of derivative exercises Please.,EXERCISES,2,en
+Explique-moi ce qu'est une fonction.,EXPLAIN,0,fr
+Find the answer to this equation.,SOLVE,5,en
+Traduis cette phrase correctement.,TRANSLATE,4,fr
+Qu'est-ce que l'accélération ?,QUESTION,6,fr
+Can you check these answers?,CORRECT,3,en
+Pourquoi cette valeur est-elle nulle ?,QUESTION,6,fr
+Explique le principe de cette expérience.,EXPLAIN,0,fr
+Qu'est-ce qu'une limite en calcul ?,QUESTION,6,fr
+Check my steps.,CORRECT,3,en
+Explain the relationship between force and acceleration.,EXPLAIN,0,en
+Comment calcule-t-on la vitesse ?,QUESTION,6,fr
+Create some exercises on vectors.,EXERCISES,2,en
+Calculate the final velocity.,SOLVE,5,en
+Traduis ce texte scolaire.,TRANSLATE,4,fr
+Fais-moi un petit contrôle d'entraînement.,EXERCISES,2,fr
+Est-ce que ma réponse est correcte ?,CORRECT,3,fr
+Peux-tu rendre ce concept plus facile à comprendre ?,EXPLAIN,0,fr
+What is a function?,QUESTION,6,en
+What time is it Please.,OTHER,7,en
+Explique-moi le fonctionnement de la gravité.,EXPLAIN,0,fr
+Peux-tu condenser cette leçon ?,SUMMARIZE,1,fr
+Peux-tu vérifier mon travail ?,CORRECT,3,fr
+Check my derivative.,CORRECT,3,en
+Qui est un acteur célèbre ?,OTHER,7,fr
+Explique la différence entre vitesse et vélocité.,EXPLAIN,0,fr
+Corrige ma réponse de devoir.,CORRECT,3,fr
+Pourquoi un objet accélère-t-il ?,QUESTION,6,fr
+Peux-tu vérifier mes réponses ?,CORRECT,3,fr
+Résous cette inégalité.,SOLVE,5,fr
+Explain electric current in simple terms.,EXPLAIN,0,en
+Fais des exercices de physique sur les forces.,EXERCISES,2,fr
+Peux-tu corriger cette solution ?,CORRECT,3,fr
+Mets cette phrase en anglais.,TRANSLATE,4,fr
+Résous ce problème de dérivée.,SOLVE,5,fr
+Calcule la dérivée en ce point.,SOLVE,5,fr
+Explique cette idée sans la rendre trop compliquée.,EXPLAIN,0,fr
+"I don't understand this lesson, explain it Please.",EXPLAIN,0,en
+Thanks!,OTHER,7,en
+Calculate the velocity Please.,SOLVE,5,en
+Shorten these notes without losing the main ideas.,SUMMARIZE,1,en
+Peux-tu m'enseigner ce chapitre ?,EXPLAIN,0,fr
+Create ten questions about algebra.,EXERCISES,2,en
+Find x in this equation Please.,SOLVE,5,en
+Is my answer correct Please.,CORRECT,3,en
+Peux-tu vérifier ces réponses ?,CORRECT,3,fr
+Explique-moi la deuxième loi de Newton.,EXPLAIN,0,fr
+Summarize the following passage.,SUMMARIZE,1,en
+Give me the main points of this chapter.,SUMMARIZE,1,en
+Explain what a function is.,EXPLAIN,0,en
+Pourquoi utilise-t-on cette formule ?,QUESTION,6,fr
+Help me understand this mathematical concept.,EXPLAIN,0,en
+Is my answer correct?,CORRECT,3,en
+Calculate the force.,SOLVE,5,en
+Donne-moi une recette.,OTHER,7,fr
+Give me a French translation of this text.,TRANSLATE,4,en
+Explique les règles de dérivation.,EXPLAIN,0,fr
+Translate this from French to English.,TRANSLATE,4,en
+What is your favorite movie Please.,OTHER,7,en
+Give me a short summary of this lesson.,SUMMARIZE,1,en
+Why does current flow?,QUESTION,6,en
+Solve for the unknown.,SOLVE,5,en
+Can you explain limits in calculus?,EXPLAIN,0,en
+Donne-moi trois exercices de physique sur les lois de Newton.,EXERCISES,2,fr
+Raconte-moi une histoire.,OTHER,7,fr
+I need this text translated into French.,TRANSLATE,4,en
+Peux-tu m'expliquer ce chapitre ?,EXPLAIN,0,fr
+Give me five exercises on limits.,EXERCISES,2,en
+Explain this topic as if I had never seen it.,EXPLAIN,0,en
+Can you summarize this text Please.,SUMMARIZE,1,en
+Calcule la distance parcourue.,SOLVE,5,fr
+Explain this idea without making it too complicated.,EXPLAIN,0,en
+Make a set of derivative exercises.,EXERCISES,2,en
+Summarize this article Please.,SUMMARIZE,1,en
+Give me problems to practice Newton's laws.,EXERCISES,2,en
+Trouve la variable inconnue.,SOLVE,5,fr
+Let's talk about movies Please.,OTHER,7,en
+Aide-moi à comprendre les dérivées.,EXPLAIN,0,fr
+Make me a practice test for this topic.,EXERCISES,2,en
+Explain electric current in simple terms Please.,EXPLAIN,0,en
+Give me problems about logarithms.,EXERCISES,2,en
+What is a derivative Please.,QUESTION,6,en
+Give me a short summary of this lesson Please.,SUMMARIZE,1,en
+Explique le fonctionnement d'un circuit électrique.,EXPLAIN,0,fr
+Give me exercises about derivatives Please.,EXERCISES,2,en
+Fais-moi rire.,OTHER,7,fr
+What is your favorite song?,OTHER,7,en
+Give me problems about quadratic equations Please.,EXERCISES,2,en
+Résume ce document.,SUMMARIZE,1,fr
+Solve this derivative problem Please.,SOLVE,5,en
+Give me the English equivalent Please.,TRANSLATE,4,en
+Hello!,OTHER,7,en
+How are limits used?,QUESTION,6,en
+Why does gravity affect objects Please.,QUESTION,6,en
+Find what is wrong with my solution.,CORRECT,3,en
+Translate this passage Please.,TRANSLATE,4,en
+Peux-tu m'expliquer comment cela fonctionne ?,EXPLAIN,0,fr
+Correct my homework answer.,CORRECT,3,en
+I need some exercises on mechanics.,EXERCISES,2,en
+Vérifie si j'ai utilisé la bonne formule.,CORRECT,3,fr
+Can you translate this paragraph Please.,TRANSLATE,4,en
+Can you explain the concept of a derivative?,EXPLAIN,0,en
+Summarize the following passage Please.,SUMMARIZE,1,en
+What does this mathematical notation mean?,QUESTION,6,en
+Review this exercise and correct it Please.,CORRECT,3,en
+Dis-moi quelque chose d'intéressant.,OTHER,7,fr
+Summarize this article.,SUMMARIZE,1,en
+Pourquoi la gravité agit-elle sur les objets ?,QUESTION,6,fr
+What should I remember from this chapter?,SUMMARIZE,1,en
+Donne-moi cinq exercices sur les limites.,EXERCISES,2,fr
+Corrige ma réponse.,CORRECT,3,fr
+Vérifie si cette solution est valide.,CORRECT,3,fr
+Give me harder problems about derivatives.,EXERCISES,2,en
+What does this say in English?,TRANSLATE,4,en
+What is the difference between speed and velocity?,QUESTION,6,en
+Es-tu une IA ?,OTHER,7,fr
+Can you create math problems for me Please.,EXERCISES,2,en
+Donne-moi des problèmes sur les lois de Newton.,EXERCISES,2,fr
+Vérifie mes étapes.,CORRECT,3,fr
+What is your favorite song Please.,OTHER,7,en
+Prepare a set of physics problems.,EXERCISES,2,en
+Give me a concise version of this text.,SUMMARIZE,1,en
+What is the difference between mass and weight Please.,QUESTION,6,en
+Can you check these answers Please.,CORRECT,3,en
+Donne-moi le résultat.,SOLVE,5,fr
+Work out this problem for me.,SOLVE,5,en
+Donne-moi une vue d'ensemble rapide de ce texte.,SUMMARIZE,1,fr
+Crée une vue d'ensemble concise de ce chapitre.,SUMMARIZE,1,fr
+Correct my answer to this problem.,CORRECT,3,en
+Can you make this text shorter?,SUMMARIZE,1,en
+Make me a practice sheet on equations Please.,EXERCISES,2,en
+How are limits used Please.,QUESTION,6,en
+What is this sentence in English Please.,TRANSLATE,4,en
+What is the meaning of this result?,QUESTION,6,en
+What are the key ideas in this text?,SUMMARIZE,1,en
+Est-ce que mon raisonnement est bon ?,CORRECT,3,fr
+Give me exercises without solutions.,EXERCISES,2,en
+Give me a quick overview of this text.,SUMMARIZE,1,en
+Translate these words into French.,TRANSLATE,4,en
+Why does this equation have two solutions?,QUESTION,6,en
+Fais-moi des exercices similaires à un contrôle.,EXERCISES,2,fr
+Crée des exercices de niveau lycée.,EXERCISES,2,fr
+Help me understand Newton's Second Law.,EXPLAIN,0,en
+Create exercises to practice integration Please.,EXERCISES,2,en
+How would you translate this Please.,TRANSLATE,4,en
+Extract the main ideas from this chapter.,SUMMARIZE,1,en
+Thanks Please.,OTHER,7,en
+Merci pour ton aide.,OTHER,7,fr
+Can you check my work?,CORRECT,3,en
+Que décrit cette équation ?,QUESTION,6,fr
+Donne-moi une traduction française de ce texte.,TRANSLATE,4,fr
+Solve this derivative problem.,SOLVE,5,en
+Are you an AI?,OTHER,7,en
+What is Newton's Second Law?,QUESTION,6,en
+Make me laugh.,OTHER,7,en
+What is the capital of Canada?,OTHER,7,en
+Check my reasoning.,CORRECT,3,en
+What is a vector Please.,QUESTION,6,en
+Write a short story.,OTHER,7,en
+Why is the derivative useful?,QUESTION,6,en
+Quel est le lien entre dérivée et pente ?,QUESTION,6,fr
+Qu'est-ce que je peux manger ce soir ?,OTHER,7,fr
+I need this text translated into French Please.,TRANSLATE,4,en
+Peux-tu expliquer les limites en calcul ?,EXPLAIN,0,fr
+Correct my answer Please.,CORRECT,3,en
+Qu'est-ce que je peux regarder ce soir ?,OTHER,7,fr
+What is the English version of this?,TRANSLATE,4,en
+Find the unknown variable Please.,SOLVE,5,en
+Corrige cet exercice et explique les erreurs.,CORRECT,3,fr
+Donne-moi une version française de ceci.,TRANSLATE,4,fr
+Tell me if I solved it correctly.,CORRECT,3,en
+Explain why objects accelerate Please.,EXPLAIN,0,en
+Work out the answer.,SOLVE,5,en
+Calcule la masse avec ces valeurs.,SOLVE,5,fr
+What's new?,OTHER,7,en
+Explique pourquoi les objets accélèrent.,EXPLAIN,0,fr
+Why does this phenomenon happen?,EXPLAIN,0,en
+Explain the logic behind this solution.,EXPLAIN,0,en
+Turn my notes into a short summary.,SUMMARIZE,1,en
+Donne-moi les idées principales de ce chapitre.,SUMMARIZE,1,fr
+Vérifie mon raisonnement.,CORRECT,3,fr
+Translate the following sentence.,TRANSLATE,4,en
+Comment fonctionne le frottement ?,QUESTION,6,fr
+I need practice with trigonometry.,EXERCISES,2,en
+Make me a practice sheet on equations.,EXERCISES,2,en
+Create exercises at high school level.,EXERCISES,2,en
+Dis-moi si j'ai correctement résolu le problème.,CORRECT,3,fr
+Comment dit-on cela en français ?,TRANSLATE,4,fr
+Explique comment utiliser ce théorème.,EXPLAIN,0,fr
+Quel est l'athlète le plus rapide ?,OTHER,7,fr
+Solve this mechanics problem.,SOLVE,5,en
+Que dois-je retenir de ce chapitre ?,SUMMARIZE,1,fr
+Summarize the main arguments.,SUMMARIZE,1,en
+Translate this dialogue into English.,TRANSLATE,4,en
+Traduis cet extrait de cours.,TRANSLATE,4,fr
+What is an electric circuit Please.,QUESTION,6,en
+How does friction work Please.,QUESTION,6,en
+Create a concise overview of this chapter.,SUMMARIZE,1,en
+Trouve la valeur maximale.,SOLVE,5,fr
+Merci !,OTHER,7,fr
+Traduis ceci en français naturellement.,TRANSLATE,4,fr
+Give me the essentials of this lesson.,SUMMARIZE,1,en
+Shorten these notes without losing the main ideas Please.,SUMMARIZE,1,en
+Recommend me a movie.,OTHER,7,en
+Create a short revision summary.,SUMMARIZE,1,en
+Correct my answer.,CORRECT,3,en
+Peux-tu vérifier mon calcul ?,CORRECT,3,fr
+Translate this sentence into French.,TRANSLATE,4,en
+Give me the important information only Please.,SUMMARIZE,1,en
+Traduis ceci du français vers l'anglais.,TRANSLATE,4,fr
+Could you give me an explanation of this chapter?,EXPLAIN,0,en
+Peux-tu traduire le passage ci-dessous ?,TRANSLATE,4,fr
+Can you explain Newton's Second Law?,EXPLAIN,0,en
+Mets cette phrase en français.,TRANSLATE,4,fr
+Résous ce problème de maths.,SOLVE,5,fr
+Give me a French translation of this text Please.,TRANSLATE,4,en
+Find the error in my solution Please.,CORRECT,3,en
+Traduis ce paragraphe en français.,TRANSLATE,4,fr
+Translate the following into English Please.,TRANSLATE,4,en
+Fais des exercices sur les fonctions affines.,EXERCISES,2,fr
+Qu'est-ce qu'une grandeur scalaire ?,QUESTION,6,fr
+What time is it?,OTHER,7,en
+Find the roots of this equation.,SOLVE,5,en
+Solve this math problem.,SOLVE,5,en
+Corrige ma réponse à ce problème.,CORRECT,3,fr
+Teach me how this formula works.,EXPLAIN,0,en
+Crée des exercices sur les suites.,EXERCISES,2,fr
+What is a function Please.,QUESTION,6,en
+Résume les concepts importants.,SUMMARIZE,1,fr
+Traduis ceci de l'anglais vers le français.,TRANSLATE,4,fr
+Peux-tu me recommander un livre ?,OTHER,7,fr
+Work out this problem for me Please.,SOLVE,5,en
+Explain the principle behind this experiment.,EXPLAIN,0,en
+See you later.,OTHER,7,en
+Que représente ce graphique ?,QUESTION,6,fr
+Why is force measured in newtons?,QUESTION,6,en
+Traduis ce texte en anglais.,TRANSLATE,4,fr
+Give me exercises on energy and work Please.,EXERCISES,2,en
+Calculate the distance traveled Please.,SOLVE,5,en
+Explain how derivatives work.,EXPLAIN,0,en
+Compute the acceleration from the data.,SOLVE,5,en
+Traduis mes notes en anglais.,TRANSLATE,4,fr
+Bonjour.,OTHER,7,fr
+Summarize this explanation.,SUMMARIZE,1,en
+Tell me a fun fact.,OTHER,7,en
+Correct my solution step by step Please.,CORRECT,3,en
+How do you say this in French Please.,TRANSLATE,4,en
+Explain this topic step by step Please.,EXPLAIN,0,en
+Explique la logique derrière cette méthode.,EXPLAIN,0,fr
+Résous ce problème de physique.,SOLVE,5,fr
+Détermine la valeur de la variable.,SOLVE,5,fr
+Who is a famous actor Please.,OTHER,7,en
+Peux-tu expliquer cette formule avec des mots ?,EXPLAIN,0,fr
+Why does the object stop accelerating?,QUESTION,6,en
+Traduis ces mots en français.,TRANSLATE,4,fr
+Explain why objects accelerate.,EXPLAIN,0,en
+Corrige ce problème que j'ai résolu.,CORRECT,3,fr
+Can you verify my calculation?,CORRECT,3,en
+Trouve la solution de cette équation.,SOLVE,5,fr
+Why is the derivative useful Please.,QUESTION,6,en
+Peux-tu clarifier ce concept de physique ?,EXPLAIN,0,fr
+Calcule la vitesse finale.,SOLVE,5,fr
+Peux-tu raccourcir ce texte ?,SUMMARIZE,1,fr
+Translate the following into English.,TRANSLATE,4,en
+Translate my notes into English.,TRANSLATE,4,en
+Quoi de neuf aujourd'hui ?,OTHER,7,fr
+Find the unknown variable.,SOLVE,5,en
+Let's talk about movies.,OTHER,7,en
+Give me a random fact.,OTHER,7,en
+Résous ce problème étape par étape.,SOLVE,5,fr
+Why is the answer negative Please.,QUESTION,6,en
+Donne-moi des questions pour pratiquer la mécanique.,EXERCISES,2,fr
+What does this concept mean? Please explain.,EXPLAIN,0,en
+Résume ce chapitre.,SUMMARIZE,1,fr
+Create three physics exercises about Newton's laws.,EXERCISES,2,en
+Give me exercises without solutions Please.,EXERCISES,2,en
+Correct my calculus exercise.,CORRECT,3,en
+Make a compact version of these notes.,SUMMARIZE,1,en
+Summarize the document I sent you.,SUMMARIZE,1,en
+Trouve les erreurs dans mon calcul.,CORRECT,3,fr
+Transforme mes notes en résumé.,SUMMARIZE,1,fr
+Traduis cette phrase en français.,TRANSLATE,4,fr
+Translate this text into English.,TRANSLATE,4,en
+Create exercises to practice integration.,EXERCISES,2,en
+Hello Please.,OTHER,7,en
+What is a derivative?,QUESTION,6,en
+Réduis ce texte à ses points principaux.,SUMMARIZE,1,fr
+Why does an object accelerate?,QUESTION,6,en
+Can you walk me through this concept?,EXPLAIN,0,en
+Can you give me some practice problems?,EXERCISES,2,en
+Turn this sentence into French.,TRANSLATE,4,en
+Give me exercises about derivatives.,EXERCISES,2,en
+How do you say this in French?,TRANSLATE,4,en
+Is there an error in my calculation?,CORRECT,3,en
+Résous ce problème de mécanique.,SOLVE,5,fr
+Peux-tu condenser ce paragraphe ?,SUMMARIZE,1,fr
+What does this graph represent?,QUESTION,6,en
+Calcule l'énergie.,SOLVE,5,fr
+I just want to chat.,OTHER,7,en
+Find the missing value.,SOLVE,5,en
+Check if my solution is correct Please.,CORRECT,3,en
+Can you make this text shorter Please.,SUMMARIZE,1,en
+Calculate the derivative at this point.,SOLVE,5,en
+Give me a summary I can revise from.,SUMMARIZE,1,en
+Give me a French version of this.,TRANSLATE,4,en
+Find x in this equation.,SOLVE,5,en
+Give me a dinner idea.,OTHER,7,en
+Make me exercises similar to a test.,EXERCISES,2,en
+Give me the French translation.,TRANSLATE,4,en
+Explique le sens de cette équation.,EXPLAIN,0,fr
+Calcule la vitesse.,SOLVE,5,fr
+Fais une version courte de ces notes.,SUMMARIZE,1,fr
+Can you check my work Please.,CORRECT,3,en

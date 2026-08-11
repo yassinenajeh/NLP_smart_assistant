@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Visual Studio Code
+.vscode/
+
+# Project-specific files
+# Trained intent model
+intent_model/
